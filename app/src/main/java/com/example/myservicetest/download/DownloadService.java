@@ -1,4 +1,4 @@
-package com.example.myservicetest;
+package com.example.myservicetest.download;
 
 import android.app.Notification;
 import android.app.NotificationManager;
@@ -12,6 +12,9 @@ import android.os.IBinder;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 import android.widget.Toast;
+
+import com.example.myservicetest.MainActivity;
+import com.example.myservicetest.R;
 
 import java.io.File;
 

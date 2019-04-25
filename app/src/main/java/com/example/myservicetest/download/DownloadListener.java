@@ -1,4 +1,4 @@
-package com.example.myservicetest;
+package com.example.myservicetest.download;
 
 /**
  * @author hel
