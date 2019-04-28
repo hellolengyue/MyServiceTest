@@ -26,7 +26,6 @@ public class DownloadActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_download);
-        setContentView(R.layout.activity_main);
         start = findViewById(R.id.start);
         pause = findViewById(R.id.pause);
         cancel = findViewById(R.id.cancel);
